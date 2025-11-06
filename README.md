@@ -39,7 +39,6 @@ Self-Healing_Classification_DAG/
 
 │ └── pytorch_model.bin # (placeholder empty file)
 
-│
 ├── backup.py # Zero-shot fallback model
 
 ├── cli_app.py # CLI version of the classifier
@@ -52,19 +51,13 @@ Self-Healing_Classification_DAG/
 
 ├── interface.py # Entry point (python interface.py)
 
-│
-
 ├── run_log.json # Logging output (training + inference)
 
 ├── requirements.txt # CPU/GPU dependent package list
 
-│
-
 ├── train_lora.py # (Optional) LoRA fine-tuning script
 
 ├── test.py # Testing utilities (if used)
-
-│
 
 ├── README.md # Documentation
 

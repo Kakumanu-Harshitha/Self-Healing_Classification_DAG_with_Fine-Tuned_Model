@@ -1,0 +1,16 @@
+{"asctime": "2025-11-05 19:09:28,902", "levelname": "INFO", "name": "train", "message": "", "step": "load_dataset"}
+{"asctime": "2025-11-05 19:10:00,551", "levelname": "INFO", "name": "train", "message": "", "step": "tokenizer_load", "model": "distilbert-base-uncased"}
+{"asctime": "2025-11-05 19:10:38,045", "levelname": "INFO", "name": "train", "message": "", "step": "load_model"}
+{"asctime": "2025-11-05 19:16:07,716", "levelname": "INFO", "name": "train", "message": "", "step": "load_dataset"}
+{"asctime": "2025-11-05 19:16:14,725", "levelname": "INFO", "name": "train", "message": "", "step": "tokenizer_load", "model": "distilbert-base-uncased"}
+{"asctime": "2025-11-05 19:16:25,123", "levelname": "INFO", "name": "train", "message": "", "step": "load_model"}
+{"asctime": "2025-11-05 19:19:59,500", "levelname": "INFO", "name": "train", "message": "", "step": "load_dataset"}
+{"asctime": "2025-11-05 19:20:06,811", "levelname": "INFO", "name": "train", "message": "", "step": "tokenizer_load", "model": "distilbert-base-uncased"}
+{"asctime": "2025-11-05 19:20:23,578", "levelname": "INFO", "name": "train", "message": "", "step": "load_model"}
+{"asctime": "2025-11-05 19:20:33,396", "levelname": "INFO", "name": "train", "message": "", "step": "trainer_setup"}
+{"asctime": "2025-11-05 19:20:33,532", "levelname": "INFO", "name": "train", "message": "", "step": "train_start"}
+{"asctime": "2025-11-05 20:16:33,112", "levelname": "INFO", "name": "train", "message": "", "step": "load_dataset"}
+{"asctime": "2025-11-05 20:16:39,813", "levelname": "INFO", "name": "train", "message": "", "step": "tokenizer_load", "model": "distilbert-base-uncased"}
+{"asctime": "2025-11-05 20:16:41,135", "levelname": "INFO", "name": "train", "message": "", "step": "load_model"}
+{"asctime": "2025-11-05 20:16:53,508", "levelname": "INFO", "name": "train", "message": "", "step": "trainer_setup"}
+{"asctime": "2025-11-05 20:16:53,610", "levelname": "INFO", "name": "train", "message": "", "step": "train_start"}

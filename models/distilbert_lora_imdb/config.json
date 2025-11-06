@@ -1,0 +1,22 @@
+{
+  "architectures": [
+    "DistilBertForSequenceClassification"
+  ],
+  "model_type": "distilbert",
+  "num_labels": 2,
+  "id2label": {
+    "0": "Negative",
+    "1": "Positive"
+  },
+  "label2id": {
+    "Negative": 0,
+    "Positive": 1
+  },
+  "vocab_size": 30522,
+  "hidden_size": 768,
+  "dim": 768,
+  "hidden_dim": 3072,
+  "max_position_embeddings": 512,
+  "initializer_range": 0.02,
+  "dropout": 0.1
+}

@@ -4,8 +4,6 @@ Overview
 This project implements a Self-Healing Classification DAG (Directed Acyclic Graph) using LangGraph and Large Language Models (LLMs). The system simulates an intelligent workflow that can detect, correct, and reclassify failed tasks automatically — making it “self-healing.”
 
 It uses a multi-agent LangGraph workflow, where each node (agent) performs specific actions such as data validation, classification, logging, and error recovery.
-# Explanation:
-[Click on this for explanation](https://1drv.ms/v/c/695d4659be40ade4/EdKXfeZbWQVDpS-tXMVHuSQBskNM0rxxnOaYuZs1zxQk4w?e=4I3j23)
 
 # 🚀 Features
 ✅ Modular LangGraph-based architecture
